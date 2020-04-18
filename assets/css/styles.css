@@ -13,7 +13,7 @@ body {
   font-size: 18px;
   margin: 0;
   scroll-behavior: smooth;
-  background-color: #dbe1f1;
+  background-color: #d3d3d3;
 }
 
 .container {
@@ -29,6 +29,8 @@ body {
   align-items: center;
   justify-content: center;
   border-bottom: 1px solid #222;
+  background-color: #222;
+  color: ghostwhite;
 }
 
 .menu {
@@ -47,6 +49,10 @@ body {
 .menu__item {
   margin-right: 10px;
   font-size: 1.1em;
+}
+.menu__item a {
+  text-decoration: none;
+  color: ghostwhite;
 }
 .menu__item a:hover {
   color: lightsteelblue;
