@@ -21,6 +21,6 @@ Além disso, criem um menu de navegação e as páginas respectivas de:
   
 Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem."
 
-### Landing Page Result
+### Access to Landing Page
 [Visit my landing page](https://newsfromcovid.netlify.app/)
 
